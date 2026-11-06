@@ -1,0 +1,10 @@
+package Latihan;
+
+public class Latihan02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
